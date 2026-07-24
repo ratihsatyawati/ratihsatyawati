@@ -3,11 +3,11 @@
 ## About Me
 * 🎓 **Background:** Information Systems Student with a strong passion for Business, Digital Transformation, and IT.
 * 💡 **Focus:** Exploring how technology optimizes business processes and creates practical, real-world solutions.
-* 🛠️ **Core Interests:**
+* 📌 **Core Interests:**
   * Business & System Analysis | Web Development | Database Management
   * UI/UX Design | Cloud Computing | Project Management
 * 💼 **Experience:**
-  * Hands-on experience through various academic software & system projects.
+  * Academic software & system projects.
   * Completed an internship focused on data management and location data processing via internal enterprise systems.
 
 ## Let's be friend! 
