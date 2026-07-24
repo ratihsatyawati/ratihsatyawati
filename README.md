@@ -1,9 +1,14 @@
 ## Hi there, Ratih Satyawati here! 👋
 
 ## About Me
-I am an Information Systems student with a strong interest in business, digital transformation, and information technology. I enjoy learning how technology can improve business processes and create practical solutions for real-world challenges.
-
-My interests include business analysis, system analysis, web development, database management, cloud computing, and project management. I have experience working on academic projects and completed an internship where I supported data management and location data processing using the company's internal system.
+* 🎓 **Background:** Information Systems Student with a strong passion for Business, Digital Transformation, and IT.
+* 💡 **Focus:** Exploring how technology optimizes business processes and creates practical, real-world solutions.
+* 🛠️ **Core Interests:**
+  * Business & System Analysis | Web Development | Database Management
+  * UI/UX Design | Cloud Computing | Project Management
+* 💼 **Experience:**
+  * Hands-on experience through various academic software & system projects.
+  * Completed an internship focused on data management and location data processing via internal enterprise systems.
 
 ## Let's be friend! 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ratih-satyawati-492608309?utm_source=share_via&utm_content=profile&utm_medium=member_android)
